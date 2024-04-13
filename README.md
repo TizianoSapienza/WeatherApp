@@ -7,4 +7,5 @@ I refactored the whole code to make it more readable and to improve its performa
 Use: If you want the app to properly be functional, register to OpenWeatherMap site and put your API key in the proper field in app.js.
 
 Showcase:
+<br>
 [screen-capture.webm](https://github.com/TizianoSapienza/WeatherApp/assets/107993826/747a4095-ef2f-48f9-82b7-e812d827557e)
