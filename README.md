@@ -9,3 +9,5 @@ Use: If you want the app to properly be functional, register to OpenWeatherMap s
 Showcase:
 <br>
 [screen-capture.webm](https://github.com/TizianoSapienza/WeatherApp/assets/107993826/747a4095-ef2f-48f9-82b7-e812d827557e)
+
+Live: https://ts-meteo.netlify.app/
